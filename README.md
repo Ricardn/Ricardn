@@ -44,3 +44,6 @@ I'm Ricardo, Integrator & Front End Developer working from Paris to the 🌍.</d
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
+
+<br></br>
+![Snake animation](https://github.com/ricardn/ricardn/blob/output/github-contribution-grid-snake.svg)
