@@ -16,7 +16,27 @@
 ### <div align="center"> Hi there ✋<br></br>
 I'm Ricardo, Integrator & Front End Developer working from Paris to the 🌍.</div>  
 
+## My Last Project
+<div align="left">
+ <p>Mon Potager - E-Commerce build with React and FireBase.</p>
+ <a href="https://mon-potager.vercel.app/" target="_blank">
+  <img style="margin: 10px" src="https://s7.gifyu.com/images/28f3984e-c1af-41ca-9499-507aa23268c5.png" alt="Mon Potager" height="350"  />
+ </a>
+</div>
+
+
 ## My Skill Set  
+<div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+</div>
+
+
+
 
 ### Frontend  
 <div align="left">  
