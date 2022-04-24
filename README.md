@@ -14,7 +14,7 @@
  
  
 ### <div align="center"> Hi there ✋<br></br>
-I'm Ricardo, Integrator & Front End Developer working from Paris to the 🌍.</div>  
+I'm Ricardo, Full Stack Developer working from Paris to the 🌍.</div>  
 
 ## My Last Project
 <div align="left">
